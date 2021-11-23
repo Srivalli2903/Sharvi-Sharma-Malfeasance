@@ -1,9 +1,9 @@
 body{
-    background-image: url("../images/bckgrnd.jpg");     
+    background-image: url("/images/bckgrnd.jpg");     
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
+
 }
 form input{
     background-color: white;
